@@ -1,18 +1,18 @@
 let movies = [
     {
 
-     name: 'falcon and winter soldier',
+     name: 'loki',
      des: 'Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!',
-     image: 'images/slider 2.PNG'
+     image: 'images/slider 1.PNG'
 
     },
 
 
     {
 
-        name: 'loki',
+        name: 'falcon and winter soldier',
         des: 'Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!',
-        image: 'images/slider 1.PNG'
+        image: 'images/slider 2.PNG'
    
     },
 
